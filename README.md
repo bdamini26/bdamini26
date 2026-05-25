@@ -14,13 +14,13 @@
 
 #  About Me :
 
-🎓 Currently pursuing **3rd Year B.Tech** at  
+Currently pursuing **3rd Year B.Tech** at  
 **PSCMR College Of Engineering And Technology**
 
-📚 Specialization:  
+ Specialization:  
 ### CSE - AI & DS (Artificial Intelligence & Data Science)
 
-💡 Passionate about:
+ Passionate about:
 - Artificial Intelligence
 - Machine Learning
 - Web Development
