@@ -17,7 +17,7 @@ Hi,I'm **Bandi Damini**
 * Astrophysics
 * Problem Solving & DSA
 
-🛠️ Tech Stack:
+🛠️  Tech Stack:
 
 * Python
 * Java
