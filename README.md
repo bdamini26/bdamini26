@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bandi Damini</h1>
 
-<h3 align="center">AI & Data Science Student | Founder at Srusthi Technologies</h3>
+<h3 align="center">AI & Data Science Student | Founder at Srushti Technologies and Founder at AIME </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Software+Engineering+Student;Learning+Machine+Learning+%26+AI;Building+Projects+with+Claude+API;Future+Tech+Entrepreneur" />
