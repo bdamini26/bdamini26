@@ -30,8 +30,5 @@ Hi,I'm **Bandi Damini**
 * MS Word
 * Web Development
 
-🎯 Goal:
-To build innovative AI-powered solutions and grow **Srusthi Technologies** into a strong tech brand.
-
 🌐 LinkedIn:
 https://www.linkedin.com/in/bandi-damini-2a8960324/
