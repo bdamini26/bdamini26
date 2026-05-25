@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bandi Damini</h1>
+<h1 align="center">Hi , I'm Bandi Damini</h1>
 
 <h3 align="center">AI & Data Science Student | Founder at Srushti Technologies and Founder at AIME </h3>
 
