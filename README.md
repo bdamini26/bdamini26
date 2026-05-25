@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**bdamini26/bdamini26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi,I'm **Bandi Damini**
 
-Here are some ideas to get you started:
+🎓 Currently pursuing **3rd Year B.Tech** at
+**PSCMR College Of Engineering And Technology**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Specialization: **CSE - AI & DS (Artificial Intelligence & Data Science)**
+
+🚀 Passionate about:
+
+* Artificial Intelligence
+* Web Development
+* Machine Learning
+* UI/UX Design
+* Quantum Computing
+* Astrophysics
+* Problem Solving & DSA
+
+🛠️ Tech Stack:
+
+* Python
+* Java
+* C
+* SQL
+* Oracle
+* Claude API
+* Power BI
+* MS Excel
+* MS Word
+* Web Development
+
+🎯 Goal:
+To build innovative AI-powered solutions and grow **Srusthi Technologies** into a strong tech brand.
+
+🌐 LinkedIn:
+https://www.linkedin.com/in/bandi-damini-2a8960324/
