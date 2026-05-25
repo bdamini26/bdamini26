@@ -12,7 +12,7 @@
 
 ---
 
-#  About Me
+#  About Me :
 
 🎓 Currently pursuing **3rd Year B.Tech** at  
 **PSCMR College Of Engineering And Technology**
@@ -33,7 +33,7 @@
 
 ---
 
-#  What I Do
+#  What I Do :
 
 -  Build intelligent systems using Python, ML & Claude API
 -  Design modern interfaces with clean UI/UX
@@ -44,7 +44,7 @@
 
 ---
 
-#  Achievements & Highlights
+#  Achievements & Highlights :
 
 -  Completed **14+ Anthropic Certifications**
 - Learned Claude API, Prompt Engineering, MCP & Agentic AI
@@ -54,9 +54,9 @@
 
 ---
 
-#  Tech Stack
+#  Tech Stack :
 
-##  Languages
+##  Languages :
 
 <p align="left">
 
@@ -72,7 +72,7 @@
 
 ---
 
-##  Web Development & Design
+##  Web Development & Design :
 
 <p align="left">
 
@@ -90,7 +90,7 @@
 
 ---
 
-##  AI / ML / Data Science
+##  AI / ML / Data Science :
 
 <p align="left">
 
@@ -108,7 +108,7 @@
 
 ---
 
-##  Emerging Technologies
+##  Emerging Technologies :
 
 <p align="left">
 
@@ -116,15 +116,15 @@
 
 <img src="https://img.shields.io/badge/Astrophysics-0EA5E9?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RAG_Systems-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM And RAG_Systems-14B8A6?style=for-the-badge"/>
 
 </p>
 
 ---
 
-#  Featured Projects
+#  Featured Projects :
 
-##  AI & Research
+##  AI & Research :
 
 ###  ml4sci-openenv-disk-analysis
 AI/ML-based scientific disk analysis project for research exploration.
@@ -134,7 +134,7 @@ Machine learning models for exoplanet disk analysis research.
 
 ---
 
-## 💻 Development Projects
+## 💻 Development Projects :
 
 ###  ai-chatbot
 Intelligent chatbot project using AI and NLP concepts.
@@ -150,7 +150,7 @@ Exploring futuristic systems and quantum computing concepts.
 
 ---
 
-#  GitHub Analytics
+#  GitHub Analytics :
 
 <div align="center">
 
@@ -162,7 +162,7 @@ Exploring futuristic systems and quantum computing concepts.
 
 ---
 
-#  GitHub Streak
+#  GitHub Streak :
 
 <div align="center">
 
@@ -172,7 +172,7 @@ Exploring futuristic systems and quantum computing concepts.
 
 ---
 
-#  Trophies
+#  Trophies :
 
 <div align="center">
 
@@ -182,7 +182,7 @@ Exploring futuristic systems and quantum computing concepts.
 
 ---
 
-#  Coding Profiles
+#  Coding Profiles :
 
 <p align="left">
 
@@ -198,7 +198,7 @@ Exploring futuristic systems and quantum computing concepts.
 
 ---
 
-#  Connect With Me
+#  Connect With Me :
 
 <p align="left">
 
@@ -214,7 +214,7 @@ Exploring futuristic systems and quantum computing concepts.
 
 ---
 
-#  Current Goals
+#  Current Goals :
 
 - Building real-world AI applications
 - Exploring advanced Machine Learning
