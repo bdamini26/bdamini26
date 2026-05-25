@@ -12,7 +12,7 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 🎓 Currently pursuing **3rd Year B.Tech** at  
 **PSCMR College Of Engineering And Technology**
@@ -33,30 +33,30 @@
 
 ---
 
-# ⚡ What I Do
+#  What I Do
 
-- 🤖 Build intelligent systems using Python, ML & Claude API
-- 🎨 Design modern interfaces with clean UI/UX
-- 🌌 Explore futuristic technologies like Quantum Computing
-- 📊 Work on AI/ML research & scientific analysis projects
-- 🧠 Solve problems using DSA & programming
-- 🚀 Build projects and grow as a tech entrepreneur
-
----
-
-# 🏆 Achievements & Highlights
-
-- ✅ Completed **14+ Anthropic Certifications**
-- 🧠 Learned Claude API, Prompt Engineering, MCP & Agentic AI
-- 🏆 Participated in **Code Spark India 2025 Hackathon**
-- 🌐 Active in developer & AI communities
-- 🚀 Building projects consistently on GitHub
+-  Build intelligent systems using Python, ML & Claude API
+-  Design modern interfaces with clean UI/UX
+-  Explore futuristic technologies like Quantum Computing
+-  Work on AI/ML research & scientific analysis projects
+-  Solve problems using DSA & programming
+-  Build projects and grow as a tech entrepreneur
 
 ---
 
-# 🛠️ Tech Stack
+#  Achievements & Highlights
 
-## 💻 Languages
+-  Completed **14+ Anthropic Certifications**
+- Learned Claude API, Prompt Engineering, MCP & Agentic AI
+- Participated in **Code Spark India 2025 Hackathon**
+- Active in developer & AI communities
+- Building projects consistently on GitHub
+
+---
+
+#  Tech Stack
+
+##  Languages
 
 <p align="left">
 
@@ -72,7 +72,7 @@
 
 ---
 
-## 🌐 Web Development & Design
+##  Web Development & Design
 
 <p align="left">
 
@@ -90,7 +90,7 @@
 
 ---
 
-## 🤖 AI / ML / Data Science
+##  AI / ML / Data Science
 
 <p align="left">
 
@@ -108,7 +108,7 @@
 
 ---
 
-## 🚀 Emerging Technologies
+##  Emerging Technologies
 
 <p align="left">
 
@@ -122,35 +122,35 @@
 
 ---
 
-# 💼 Featured Projects
+#  Featured Projects
 
-## 🔬 AI & Research
+##  AI & Research
 
-### 🌌 ml4sci-openenv-disk-analysis
+###  ml4sci-openenv-disk-analysis
 AI/ML-based scientific disk analysis project for research exploration.
 
-### 🤖 ml4sci-exoa-disk-ml
+###  ml4sci-exoa-disk-ml
 Machine learning models for exoplanet disk analysis research.
 
 ---
 
 ## 💻 Development Projects
 
-### 🧠 ai-chatbot
+###  ai-chatbot
 Intelligent chatbot project using AI and NLP concepts.
 
-### 🌐 responsive-portfolio-website
+###  responsive-portfolio-website
 Modern responsive portfolio website with clean UI/UX.
 
 ### ☁️ weather-api
 Weather forecasting application using API integration.
 
-### ⚛️ Quantum-Looms
+###  Quantum-Looms
 Exploring futuristic systems and quantum computing concepts.
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -162,7 +162,7 @@ Exploring futuristic systems and quantum computing concepts.
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <div align="center">
 
@@ -172,7 +172,7 @@ Exploring futuristic systems and quantum computing concepts.
 
 ---
 
-# 🏆 Trophies
+#  Trophies
 
 <div align="center">
 
@@ -182,7 +182,7 @@ Exploring futuristic systems and quantum computing concepts.
 
 ---
 
-# 🧠 Coding Profiles
+#  Coding Profiles
 
 <p align="left">
 
@@ -198,7 +198,7 @@ Exploring futuristic systems and quantum computing concepts.
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="left">
 
@@ -214,7 +214,7 @@ Exploring futuristic systems and quantum computing concepts.
 
 ---
 
-# 🚀 Current Goals
+#  Current Goals
 
 - Building real-world AI applications
 - Exploring advanced Machine Learning
@@ -228,10 +228,10 @@ Exploring futuristic systems and quantum computing concepts.
 
 <div align="center">
 
-## ✨ "The future belongs to those who build it." ✨
+##  "The future belongs to those who build it." 
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrng815u/giphy.gif" width="40px"/>
 
-### Thanks for visiting my profile 💙
+### Thanks for visiting my profile 
 
 </div>
